@@ -28,4 +28,4 @@ Steps:
 
 Note: this code is not mine. Most of the code came from this website: https://medium.com/@jubin3424/clipboard-hijacking-attack-and-vulnerability-to-this-in-current-financial-services-2175e1ac6105    
 
-The main difference is I’ve changed parts of the code to work with Gmail’s 2022 security update (tested it out and it works!). There are still a couple bugs, but for the most part it works. 
+The main difference is I’ve changed parts of the code to work with Gmail’s 2022 security update. There are still a couple bugs, but for the most part it works. 
