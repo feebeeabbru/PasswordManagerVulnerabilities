@@ -1,16 +1,16 @@
 import smtplib
 import csv
-import ssl #my code
+import ssl 
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-ctx = ssl.create_default_context()#mine
+ctx = ssl.create_default_context()
 
 def sendEmail():
-    password = "kqhkzajtdwrtboye"
-    email_sender = 'feebee.abbruzzese@gmail.com'
-    email_receiver = 'feebee.abbruzzese@gmail.com'
-    subject = 'You\'ve been hacked!'
+    password = "" #UPDATE THIS WITH YOUR PASSWORD 
+    email_sender = '' #UPDATE THIS WITH YOUR EMAIL 
+    email_receiver = '' #UPDATE THIS WITH YOUR EMAIL 
+    subject = 'You\'ve been hacked :)'
 
     msg = MIMEMultipart()
     msg['From'] = email_sender
