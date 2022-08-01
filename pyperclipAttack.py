@@ -4,13 +4,13 @@ import time
 import os
 sys.path.append(os.path.abspath("SO_site-packages")
 )
-import pyperclip #mine
+import pyperclip
 import helper #created on another emacs doc
 
 recent_value = ''
 count = 0
 
-#print(sys.executable) #do i need this??
+#print(sys.executable) 
 hac_account = ['110411581841', '56041151891292',
                '74670201929172', '34019679321']
 shinhan_codes = []
