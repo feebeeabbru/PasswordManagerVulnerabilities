@@ -1,6 +1,6 @@
 # Password Manager Vulnerabilities
 
-This repository contains my main presentation (still working on the document and presentation so they haven't been added yet), side project and code for the pyperclip attack (one of 3 attacks I performed on the password managers).
+This repository contains my main presentation, research paper, side project and code for the pyperclip attack (one of 3 attacks I performed on the password managers).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
